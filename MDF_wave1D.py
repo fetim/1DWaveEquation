@@ -19,6 +19,8 @@ from matplotlib.pylab import figure,plot,show,draw,pause,clf
 from time import sleep
 import matplotlib.animation as animation
 
+# COmentatrio aleatorio
+
 # Parameters
 dx  = 0.5
 dt  = 0.0002
